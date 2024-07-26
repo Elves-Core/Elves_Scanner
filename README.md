@@ -1,4 +1,5 @@
 
+(Elves_Scanner/Screenshot_1.png)
 # Elves Scanner 1.432
 
 Elves Scanner 1.432 is a simple Python tool that checks for OWASP Top 10 vulnerabilities in web applications using basic HTTP requests and responses. This script uses the `requests` library to perform these checks.
